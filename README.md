@@ -4,11 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in web 
 
 ## 🚀 About Me
 
-I'm a developer who enjoys building practical solutions and learning new technologies. My repositories showcase my journey through various programming languages and frameworks, from web development to data automation and system administration.
+I relish building practical solutions and learning new technologies. My repositories reflect my journey through various programming languages and frameworks—from web development to data automation and system administration.
 
 ## 🛠️ Tech Stack
 
-### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +18,6 @@ I'm a developer who enjoys building practical solutions and learning new technol
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![ZSH](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
 
-### Tech Stack
 - **Languages:** Python, JavaScript, HTML5, CSS3, C/C++, Java, MIPS Assembly, Shell Script, Zsh
 - **Tools:** Git, GitHub, VS Code, Zsh with custom configs  
 - **Web:** Frontend development with HTML, CSS, JavaScript  
