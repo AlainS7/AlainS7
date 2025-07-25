@@ -1,106 +1,50 @@
-# Hi there, I'm Alain! 👋 🤠
+# Hi, I'm Alain 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with experience in web development, Python automation, and system configuration.
-
-## 🚀 About Me
-
-I relish building practical solutions and learning new technologies. My repositories reflect my journey through various programming languages and frameworks—from web development to data automation and system administration.
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=ffffff&style=for-the-badge)
-![MIPS Assembly](https://img.shields.io/badge/MIPS_Assembly-8B0000?style=for-the-badge)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![ZSH](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
-
-- **Languages:** Python, JavaScript, HTML5, CSS3, C/C++, Java, MIPS Assembly, Shell Script, Zsh
-- **Tools:** Git, GitHub, VS Code, Zsh with custom configs  
-- **Web:** Frontend development with HTML, CSS, JavaScript  
-- **Automation & Data:** Python scripting, shell scripting  
-- **System Admin:** Dotfiles management, configuration automation
-
-## 📂 Featured Projects
-
-### 🐍 [TSI Data Uploader](https://github.com/AlainS7/tsi-data-uploader) (Private)
-A Python-based data automation tool with web interface capabilities.
-- **Tech Stack:** Python (93.2%), HTML (3.4%), JavaScript (3.4%)
-- **Features:** Data processing and upload automation
-- **Use Case:** Streamlining data management workflows
-
-### 🌐 [F-M Website](https://github.com/M2LikeWater/F-M-Website) (Private)
-A collaborative web development project showcasing modern frontend techniques.
-- **Tech Stack:** HTML (39.8%), JavaScript (30.8%), CSS (29.4%)
-- **Role:** Contributor to frontend development
-- **Skills Demonstrated:** Collaborative development, responsive design
-
-### 🏪 [3D Print Shop](https://github.com/AlainS7/3d-print-shop) (Private)
-An e-commerce platform for 3D printing services.
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** Product showcase, shop redesign
-- **Focus:** User experience and modern web design
-
-### ⚙️ [Dotfiles](https://github.com/AlainS7/dotfiles)
-My personal system configuration files for development environment setup.
-- **Tech Stack:** Shell scripting (100%)
-- **Includes:** Zsh configurations, Git settings, and more
-- **Purpose:** Reproducible development environment setup
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-alains7s-projects.vercel.app/api?username=AlainS7&show_icons=true&count_private=true&rank_icon=github&theme=transparent&hide=stars,prs,issues"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-alains7s-projects.vercel.app/api/top-langs/?username=AlainS7&layout=compact&count_private=true&theme=transparent&count_private=true"/>
-    </td>
-  </tr>
-</table>
-
-## 🌱 Currently Learning
-
-- Advanced Python frameworks
-- Modern JavaScript tools
-- DevOps & automation
-- System configuration management
-- Web performance optimization
-
-## 💼 Skills Showcase
-
-### Web Development
-- **Frontend:** Responsive design, modern CSS techniques, vanilla JavaScript
-- **User Experience:** Focus on clean, intuitive interfaces
-- **Collaboration:** Experience working on team projects
-
-### Python Development
-- **Automation:** Building tools for data processing and workflow automation
-- **Web Integration:** Combining Python backend with web frontends
-- **Data Handling:** Processing and managing data efficiently
-
-### System Administration
-- **Configuration Management:** Maintaining dotfiles and system configurations
-- **Shell Scripting:** Automating tasks and improving workflow efficiency
-- **Version Control:** Advanced Git usage and collaborative development
-
-## 📫 How to Reach Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlainS7)
-
-## ⚡ Fun Facts
-
-- I enjoy optimizing development workflows through automation
-- Always looking for ways to improve code efficiency and maintainability
-- Passionate about clean code and well-documented projects
-- Love learning new technologies and best practices
+I'm a passionate developer with a diverse skill set spanning from cloud-native data engineering to iOS mobile development and full-stack web applications. I enjoy building robust, scalable solutions and creating intuitive user experiences.
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+### 🛠️ My Tech Stack
 
-Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on any projects.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,swift,c,cpp,java,gcp,docker,postgresql,html,css,bash,zsh&perline=50" />
+  </a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project                               | Description                                                                                                                              | Tech Stack                                                     |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Hot Durham Environmental Monitoring** | A cloud-native data pipeline that automates the collection, processing, and visualization of environmental data for academic research.   | `Python`, `Google Cloud Run`, `Google Cloud SQL`, `Looker Studio` |
+| **Zombie Rider** | An endless runner iOS game built with Swift and Metal, showcasing skills in mobile game development and graphics programming.              | `Swift`, `Metal`, `Objective-C`                                  |
+| **3D Print Shop** | A full-stack web application for managing 3D printing services, demonstrating modern front-end and back-end development practices.         | `TypeScript`, `JavaScript`, `HTML/CSS`, `Python`               |
+| **Personal Dotfiles** | A repository of personal configuration files for Zsh, Git, and other tools to streamline and automate my development workflow.               | `Shell`, `Zsh`                                                 |
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-alains7s-projects.vercel.app/api?username=AlainS7&show_icons=true&count_private=true&rank_icon=github&theme=transparent&hide=stars,prs,issues" alt="AlainS7's GitHub stats" />
+  <img src="https://github-readme-stats-alains7s-projects.vercel.app/api/top-langs/?username=AlainS7&layout=compact&count_private=true&theme=transparent&count_private=true" alt="Top Langs" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+- Advanced Python frameworks and modern JavaScript tools
+- DevOps, CI/CD, and infrastructure automation
+- Web performance optimization and system configuration management
+
+### ⚡ Fun Facts
+- I enjoy optimizing development workflows through automation.
+- I'm passionate about clean code, robust architecture, and well-documented projects.
+
+---
+
+🔗 **Connect with me:** [**LinkedIn**](https://www.linkedin.com/in/alain-soto)
+
+Thanks for visiting!
