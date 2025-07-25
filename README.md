@@ -45,6 +45,11 @@ I'm a passionate developer with a diverse skill set spanning from cloud-native d
 
 ---
 
-🔗 **Connect with me:** [**LinkedIn**](https://www.linkedin.com/in/alain-soto)
+### 🔗 Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/alain-soto/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 
 Thanks for visiting!
