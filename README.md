@@ -26,7 +26,7 @@ I'm a passionate developer with a diverse skill set spanning from cloud-native d
 
 ---
 
-### 📊 My GitHub Stats
+<!-- ### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-alains7s-projects.vercel.app/api?username=AlainS7&show_icons=true&count_private=true&rank_icon=github&theme=transparent&hide=stars,prs,issues" alt="AlainS7's GitHub stats" />
@@ -34,6 +34,8 @@ I'm a passionate developer with a diverse skill set spanning from cloud-native d
 </p>
 
 ---
+
+-->
 
 ### 🌱 Currently Learning
 - Advanced Python frameworks and modern JavaScript tools
