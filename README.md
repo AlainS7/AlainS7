@@ -1,4 +1,5 @@
-# Hi, I'm Alain 👋&nbsp;&nbsp;&nbsp;&nbsp;[![website](https://img.icons8.com/?size=35&id=bGv5vHhwLQi3&format=png&color=339AF0)](https://alains7.github.io/)
+# Hi, I'm Alain 👋  
+Check out my website: https://alains7.github.io/ &nbsp;&nbsp;[![website](https://img.icons8.com/?size=35&id=bGv5vHhwLQi3&format=png&color=339AF0)](https://alains7.github.io/)
 
 I'm a passionate developer with a diverse skill set spanning from cloud-native data engineering to iOS mobile development and full-stack web applications. I enjoy building robust, scalable solutions and creating intuitive user experiences.
 
