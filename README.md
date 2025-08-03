@@ -29,8 +29,8 @@ I'm a passionate developer with a diverse skill set spanning from cloud-native d
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-alains7s-projects.vercel.app/api?username=AlainS7&show_icons=true&rank_icon=github&theme=transparent&hide=stars,issues" alt="AlainS7's GitHub stats" />
-  <img src="https://github-readme-stats-alains7s-projects.vercel.app/api/top-langs/?username=AlainS7&layout=compact&theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-stats-alains7s-projects.vercel.app/api?username=AlainS7&show_icons=true&count_private=true&rank_icon=github&theme=transparent&hide=stars,issues" alt="AlainS7's GitHub stats" />
+  <img src="https://github-readme-stats-alains7s-projects.vercel.app/api/top-langs/?username=AlainS7&layout=compact&count_private=true&theme=transparent" alt="Top Langs" />
 </p>
 
 ---
