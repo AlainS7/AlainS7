@@ -42,7 +42,7 @@ I'm a passionate developer with a diverse skill set spanning from cloud-native d
 
 ### ⚡ Fun Facts
 - I enjoy optimizing development workflows through automation.
-- I'm passionate about clean code, robust architecture, and well-documented projects.
+- I'm passionate about robust architecture and well-documented projects.
 
 ---
 
