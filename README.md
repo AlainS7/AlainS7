@@ -17,25 +17,23 @@ I'm a passionate developer with a diverse skill set spanning from cloud-native d
 
 ### 🚀 Featured Projects
 
-| Project                               | Description                                                                                                                              | Tech Stack                                                     |
+| Project/Repo                               | Description                                                                                                                              | Tech Stack                                                     |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| **Hot Durham Environmental Monitoring** | A cloud-native data pipeline that automates the collection, processing, and visualization of environmental data for academic research.   | `Python`, `Google Cloud Run`, `Google Cloud SQL`, `Looker Studio` |
+| [**Hot Durham Environmental Monitoring**](https://github.com/AlainS7/tsi-data-uploader) | A cloud-native data pipeline that automates the collection, processing, and visualization of environmental data for academic research.   | `Python`, `Google Cloud Run`, `Google Cloud SQL`, `Looker Studio` |
 | **Zombie Rider** | An endless runner iOS game built with Swift and Metal, showcasing skills in mobile game development and graphics programming.              | `Swift`, `Metal`, `Objective-C`                                  |
 | **3D Print Shop** | A full-stack web application for managing 3D printing services, demonstrating modern front-end and back-end development practices.         | `TypeScript`, `JavaScript`, `HTML/CSS`, `Python`               |
 | **Personal Dotfiles** | A repository of personal configuration files for Zsh, Git, and other tools to streamline and automate my development workflow.               | `Shell`, `Zsh`                                                 |
 
 ---
 
-<!-- ### 📊 My GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-alains7s-projects.vercel.app/api?username=AlainS7&show_icons=true&count_private=true&rank_icon=github&theme=transparent&hide=stars,prs,issues" alt="AlainS7's GitHub stats" />
-  <img src="https://github-readme-stats-alains7s-projects.vercel.app/api/top-langs/?username=AlainS7&layout=compact&count_private=true&theme=transparent&count_private=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-alains7s-projects.vercel.app/api?username=AlainS7&show_icons=true&rank_icon=github&theme=transparent&hide=stars,prs,issues" alt="AlainS7's GitHub stats" />
+  <img src="https://github-readme-stats-alains7s-projects.vercel.app/api/top-langs/?username=AlainS7&layout=compact&theme=transparent" alt="Top Langs" />
 </p>
 
 ---
-
--->
 
 ### 🌱 Currently Learning
 - Advanced Python frameworks and modern JavaScript tools
