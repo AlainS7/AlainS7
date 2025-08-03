@@ -22,7 +22,7 @@ I'm a passionate developer with a diverse skill set spanning from cloud-native d
 | [**Hot Durham Environmental Monitoring**](https://github.com/AlainS7/tsi-data-uploader) | A cloud-native data pipeline that automates the collection, processing, and visualization of environmental data for academic research.   | `Python`, `Google Cloud Run`, `Google Cloud SQL`, `Looker Studio` |
 | **Zombie Rider** | An endless runner iOS game built with Swift and Metal, showcasing skills in mobile game development and graphics programming.              | `Swift`, `Metal`, `Objective-C`                                  |
 | **3D Print Shop** | A full-stack web application for managing 3D printing services, demonstrating modern front-end and back-end development practices.         | `TypeScript`, `JavaScript`, `HTML/CSS`, `Python`               |
-| **Personal Dotfiles** | A repository of personal configuration files for Zsh, Git, and other tools to streamline and automate my development workflow.               | `Shell`, `Zsh`                                                 |
+| [**Personal Dotfiles**](https://github.com/AlainS7/dotfiles) | A repository of personal configuration files for Zsh, Git, and other tools to streamline and automate my development workflow.               | `Shell`, `Zsh`                                                 |
 
 ---
 
