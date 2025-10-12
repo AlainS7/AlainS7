@@ -1,5 +1,10 @@
 # Hi, I'm Alain 👋
-🌐 Check out my website! https://alains7.github.io/ or click: &nbsp;&nbsp;[![website](https://img.icons8.com/?size=30&id=bGv5vHhwLQi3&format=png&color=339AF0)](https://alains7.github.io/)<br><br>
+
+<p align="left">
+  <a href="https://alains7.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-339AF0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
 
 I'm a passionate developer with a diverse skill set spanning from cloud-native data engineering to iOS mobile development and full-stack web applications. I enjoy building robust, scalable solutions and creating intuitive user experiences.
 
@@ -7,9 +12,24 @@ I'm a passionate developer with a diverse skill set spanning from cloud-native d
 
 ### 🛠️ My Tech Stack
 
+#### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,swift,c,cpp,java,gcp,docker,postgresql,html,css,bash,zsh&perline=50" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,swift,c,cpp,java,bash,zsh" />
+  </a>
+</p>
+
+#### Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
+
+#### Backend & Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,docker,postgresql" />
   </a>
 </p>
 
