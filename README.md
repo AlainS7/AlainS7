@@ -15,21 +15,21 @@ I'm a passionate developer with a diverse skill set spanning from cloud-native d
 #### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,swift,c,cpp,java,bash,zsh" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,java,bash,zsh" />
   </a>
 </p>
 
-#### Frontend
+#### Frontend and Desktop
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,electron" />
   </a>
 </p>
 
-#### Backend & Cloud
+#### Backend and Cloud
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,docker,postgresql" />
+    <img src="https://skillicons.dev/icons?i=gcp,docker,postgresql,appwrite,nodejs,express" />
   </a>
 </p>
 
@@ -39,18 +39,20 @@ I'm a passionate developer with a diverse skill set spanning from cloud-native d
 
 | Project/Repo                               | Description                                                                                                                              | Tech Stack                                                     |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [**Durham Environmental Monitoring**](https://github.com/AlainS7/durham-environmental-monitoring.git) | A cloud-native data pipeline that automates the collection, processing, and visualization of environmental data for academic research and for participants to view their own sensor data.   | `Python`, `Google Cloud Run`, `Google Cloud SQL`, `Looker Studio` |
-| **Zombie Rider** | An endless runner iOS game built with Swift and Metal.              | `Swift`, `Metal`, `Objective-C`                                  |
-| **3D Print Shop** | A full-stack web application for managing 3D printing services.         | `TypeScript`, `JavaScript`, `HTML/CSS`, `Python`               |
-| [**Personal Dotfiles**](https://github.com/AlainS7/dotfiles) | Personal configuration files for Zsh, Git, & other tools.               | `Shell`, `Zsh`                                                 |
+| [**Durham Environmental Monitoring**](https://github.com/AlainS7/durham-environmental-monitoring) | A cloud-native data pipeline that automates the collection, processing, and visualization of environmental data for academic research and for participants to view their own sensor data.   | `Python`, `Google Cloud Platform`, `SQL` |
+| [**Relax**](https://github.com/AlainS7/relax) | Wellness app designed to support users through anxiety or panic attacks. | `TypeScript`, `Appwrite`, `React Native`, `Docker` |
+| [**Bridge**](https://github.com/AlainS7/bridge) | A Signal-inspired messenger tailored for elderly users — simple, secure, and visually intuitive. | `TypeScript`, `JavaScript`, `React Native`|
+| [**Personal Dotfiles**](https://github.com/AlainS7/dotfiles) | Personal configuration files for Zsh, Git, & other tools. | `Shell`, `Zsh` |
+| BreakEasy (Private) | Intelligent productivity app.| `React`,`JavaScript`, `TypeScript`, `Tailwind CSS`,`Electron`, `Node.js`, `Express`, `Playwright`, `Vitest`, `Docker`, `Knex.js` |
+
 
 ---
 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-alains7s-projects.vercel.app/api?username=AlainS7&show_icons=true&count_private=true&rank_icon=github&theme=transparent&t=4&hide=stars,issues" alt="AlainS7's GitHub stats" />
-  <img src="https://github-readme-stats-alains7s-projects.vercel.app/api/top-langs/?username=AlainS7&layout=compact&count_private=true&theme=transparent&t=4&size_weight=0.5&count_weight=0.5&langs_count=10" alt="Top Langs" />
+  <img src="https://github-readme-stats-alains7s-projects.vercel.app/api?username=AlainS7&show_icons=true&count_private=true&rank_icon=github&theme=transparent&t=7&hide=stars,issues" alt="AlainS7's GitHub stats" />
+  <img src="https://github-readme-stats-alains7s-projects.vercel.app/api/top-langs/?username=AlainS7&layout=compact&count_private=true&theme=transparent&t=7&size_weight=0.5&count_weight=0.5&langs_count=10" alt="Top Langs" />
 </p>
 
 ---
