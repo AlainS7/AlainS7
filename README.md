@@ -15,21 +15,14 @@ I'm a passionate developer with a growing skill set spanning from cloud-native d
 #### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,java,bash,zsh" />
-  </a>
-</p>
-
-#### Frontend and Desktop
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,electron" />
+    <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java" />
   </a>
 </p>
 
 #### Backend and Cloud
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,docker,postgresql,appwrite,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=gcp,docker,postgresql,appwrite,git" />
   </a>
 </p>
 
