@@ -1,10 +1,10 @@
 # Hi, I'm Alain 👋🤠
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://alains7.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Website-339AF0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-</p>
+</p> -->
 
 I'm a passionate developer with a growing skill set spanning from cloud-native data engineering to iOS mobile development and full-stack web applications. I enjoy building robust, scalable solutions and creating intuitive user experiences.
 
@@ -15,7 +15,7 @@ I'm a passionate developer with a growing skill set spanning from cloud-native d
 #### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+    <img src="https://skillicons.dev/icons?i=python,react,js,ts,cpp,java" />
   </a>
 </p>
 
