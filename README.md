@@ -10,8 +10,6 @@ I'm a passionate developer with a growing skill set spanning from cloud-native d
 
 ---
 
-### 🛠️ My Tech Stack
-
 #### Languages
 <p align="left">
   <a href="https://skillicons.dev">
@@ -28,7 +26,7 @@ I'm a passionate developer with a growing skill set spanning from cloud-native d
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
 | Project/Repo                               | Description                                                                                                                              | Tech Stack                                                     |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -48,17 +46,16 @@ I'm a passionate developer with a growing skill set spanning from cloud-native d
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - DevOps, CI/CD, and infrastructure automation
 - Web development languages
 
-### ⚡ Fun Facts
+### Fun Facts
 - I enjoy optimizing development workflows through automation.
 - I'm passionate about robust architecture and well-documented projects.
 
 ---
 
-### 🔗 Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/alain-soto/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
