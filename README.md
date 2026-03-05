@@ -1,4 +1,4 @@
-# Hi, I'm Alain 👋🤠
+# Hi, I'm Alain
 
 <!-- <p align="left">
   <a href="https://alains7.github.io/" target="_blank">
