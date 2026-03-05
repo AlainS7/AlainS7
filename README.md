@@ -31,8 +31,6 @@ I'm a passionate developer with a growing skill set spanning from cloud-native d
 | Project/Repo                               | Description                                                                                                                              | Tech Stack                                                     |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [**Durham Environmental Monitoring**](https://github.com/AlainS7/durham-environmental-monitoring) | A cloud-native data pipeline that automates the collection, processing, and visualization of environmental data for academic research and for participants to view their own sensor data.   | `Python`, `Google Cloud Platform`, `React`, `JavaScript`, `SQL` |
-| [**Relax**](https://github.com/AlainS7/relax) | Wellness app designed to support users through anxiety or panic attacks. | `TypeScript`, `Appwrite`, `React Native`, `Docker` |
-| [**Bridge**](https://github.com/AlainS7/bridge) | A Signal-inspired messenger tailored for elderly users — simple, secure, and visually intuitive. | `TypeScript`, `JavaScript`, `React Native`|
 | [**Personal Dotfiles**](https://github.com/AlainS7/dotfiles) | Personal configuration files for Zsh, Git, & other tools. | `Shell`, `Zsh` |
 | BreakEasy (Private) | Intelligent productivity app.| `React`,`JavaScript`, `TypeScript`, `Tailwind CSS`,`Electron`, `Node.js`, `Express`, `Playwright`, `Vitest`, `Docker`, `Knex.js` |
 
