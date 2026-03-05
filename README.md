@@ -46,7 +46,7 @@ I'm a passionate developer with a growing skill set spanning from cloud-native d
 
 ### Currently Learning
 - DevOps, CI/CD, and infrastructure automation
-- Web development languages
+- Web development and scalability
 
 ### Fun Facts
 - I enjoy optimizing development workflows through automation.
