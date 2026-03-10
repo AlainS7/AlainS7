@@ -30,9 +30,9 @@ I'm a passionate developer with a growing skill set spanning from cloud-native d
 
 | Project/Repo                               | Description                                                                                                                              | Tech Stack                                                     |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [**Durham Environmental Monitoring**](https://github.com/AlainS7/durham-environmental-monitoring) | A cloud-native data pipeline that automates the collection, processing, and visualization of environmental data for academic research and for participants to view their own sensor data.   | `Python`, `Google Cloud Platform`, `React`, `JavaScript`, `SQL` |
+| [**Durham Environmental Monitoring**](https://github.com/AlainS7/durham-environmental-monitoring) | A cloud-native data pipeline that automates the collection, processing, and visualization of environmental data for academic research and for participants to view their own sensor data.   | `Python`, `Google Cloud Platform`, `SQL` |
 | [**Personal Dotfiles**](https://github.com/AlainS7/dotfiles) | Personal configuration files for Zsh, Git, & other tools. | `Shell`, `Zsh` |
-| BreakEasy (Private) | Intelligent productivity app.| `React`,`JavaScript`, `TypeScript`, `Tailwind CSS`,`Electron`, `Node.js`, `Express`, `Playwright`, `Vitest`, `Docker`, `Knex.js` |
+| BreakEasy (Private) | Intelligent productivity app.| `React`, `Playwright` |
 
 
 ---
