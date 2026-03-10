@@ -13,7 +13,7 @@ I'm a passionate developer with a growing skill set spanning from cloud-native d
 #### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,ts,cpp,java,postgresql" />
+    <img src="https://skillicons.dev/icons?i=python,react,ts,cpp,java" />
   </a>
 </p>
 
