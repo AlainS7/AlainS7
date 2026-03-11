@@ -6,7 +6,7 @@
   </a>
 </p> -->
 
-I'm a passionate developer with a growing skill set spanning from cloud-native data engineering to cross-platform mobile app programming.
+I'm, Alain, a curious developer currently learning and building cloud-native data engineering and cross-platform mobile app development.
 
 ---
 
@@ -45,13 +45,10 @@ I'm a passionate developer with a growing skill set spanning from cloud-native d
 ### Fun Facts
 - I enjoy optimizing development workflows through automation.
 - I'm passionate about robust architecture.
-
 ---
-
 <p align="left">
   <a href="https://www.linkedin.com/in/alain-soto/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
-
 Have a great day!
