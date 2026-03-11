@@ -6,7 +6,7 @@
   </a>
 </p> -->
 
-I'm, Alain, a curious developer currently learning and building cloud-native data engineering and cross-platform mobile app development.
+I'm Alain, a curious developer focused on distributed data systems and cloud-native infrastructure.
 
 ---
 
@@ -14,19 +14,18 @@ I'm, Alain, a curious developer currently learning and building cloud-native dat
 
 ### Languages & Backend
 
-<img src="https://skillicons.dev/icons?i=python,react,cpp,java,gcp,appwrite,git,grafana" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,gcp,appwrite,git,grafana" />
 
 </div>
-
 
 
 ### Projects
 
 | Project/Repo                               | Description                                                                                                                              | Tech Stack                                                     |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [**Durham Environmental Monitoring**](https://github.com/AlainS7/durham-environmental-monitoring) | A cloud-native data pipeline that automates the collection, processing, and visualization of environmental data for academic research and for participants to view their own sensor data.   | `Python`, `Google Cloud Platform`, `SQL` |
-| [**Personal Dotfiles**](https://github.com/AlainS7/dotfiles) | Personal configuration files for Zsh, Git, & other tools. | `Shell`, `Zsh` |
-| BreakEasy (Private) | Developing an intelligent productivity app.| `React` |
+| [**Durham Environmental Monitoring**](https://github.com/AlainS7/durham-environmental-monitoring) | Cloud-native data pipeline for automated ingestion, processing, and visualization of environmental sensor data. Designed for scalable collection and structured querying.  | `Python`, `Google Cloud Platform`, `SQL` |
+| [**Personal Dotfiles**](https://github.com/AlainS7/dotfiles) | Reproducible development environment with workflow automation and shell optimizations. | `Shell`, `Zsh` |
+| BreakEasy (Private) | Intelligent productivity application (in development). | `React` |
 
 <!--
 ---
@@ -39,13 +38,18 @@ I'm, Alain, a curious developer currently learning and building cloud-native dat
 ---
 
 ### Currently Learning
-- Systems engineering
-- Progressive Web App (PWA) design and scalability
+
+- Distributed systems fundamentals
+- Data infrastructure & scalable pipeline design
+- Query performance and optimization
 
 ### Fun Facts
+
 - I enjoy optimizing development workflows through automation.
-- I'm passionate about robust architecture.
+- I'm passionate about scalable system design.
+ 
 ---
+
 <p align="left">
   <a href="https://www.linkedin.com/in/alain-soto/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
