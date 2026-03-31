@@ -14,7 +14,7 @@ I'm Alain, a curious developer focused on distributed data systems and cloud-nat
 
 ### Languages & Backend
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,gcp,git,grafana" />
+<img src="https://skillicons.dev/icons?i=python,java,gcp,git,grafana" />
 
 </div>
 
