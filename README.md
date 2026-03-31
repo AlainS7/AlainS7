@@ -23,7 +23,7 @@ I'm Alain, a curious developer focused on distributed data systems and cloud-nat
 
 | Project/Repo                               | Description                                                                                                                              | Tech Stack                                                     |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [**Durham Environmental Monitoring**](https://github.com/AlainS7/durham-environmental-monitoring) | Cloud-native data pipeline for automated ingestion, processing, and visualization of environmental sensor data. Designed for scalable collection and structured querying.  | `Python`, `Google Cloud Platform`, `SQL` |
+| [**Durham Environmental Monitoring**](https://github.com/AlainS7/durham-environmental-monitoring) | Cloud-native data pipeline for automated ingestion, processing, and visualization of environmental sensor data. Designed for scalable collection and structured querying.  | `Python`, `Google Cloud Platform`, `SQL`,`Appwrite` |
 | [**Personal Dotfiles**](https://github.com/AlainS7/dotfiles) | Reproducible development environment with workflow automation and shell optimizations. | `Shell`, `Zsh` |
 | BreakEasy (Private) | Intelligent productivity application (in development). | `React` |
 
