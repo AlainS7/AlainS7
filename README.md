@@ -25,6 +25,7 @@ I'm Alain, a curious developer focused on distributed data systems and cloud-nat
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [**Durham Environmental Monitoring**](https://github.com/AlainS7/durham-environmental-monitoring) | Cloud-native data pipeline for automated ingestion, processing, and visualization of environmental sensor data. Designed for scalable collection and structured querying.  | `Python`, `Google Cloud Platform`, `SQL`,`Appwrite` |
 | [**Personal Dotfiles**](https://github.com/AlainS7/dotfiles) | Reproducible development environment with workflow automation and shell optimizations. | `Shell`, `Zsh` |
+| [**PermScope**](https://github.com/AlainS7/permscope) | VS Code extension that analyzes commands and permissions and shows their risk. | `TypeScript` |
 | BreakEasy (Private) | Intelligent productivity application (in development). | `React` |
 
 <!--
