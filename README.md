@@ -28,6 +28,7 @@ I'm Alain, a curious developer focused on distributed data systems and cloud-nat
 | [**PermScope**](https://github.com/AlainS7/permscope) | VS Code extension that analyzes commands and permissions and shows their risk. | `TypeScript` |
 | Pulse | Social events app | `React Native`, `Appwrite`, `Resend`, `TypeScript` |
 | BreakEasy (Private) | Intelligent productivity application (in development). | `React` |
+| dotpi  | Reproducible AI development environment thanks to [**pi**](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent) by [**Mario Zechner**](https://github.com/badlogic). | `TypeScript`, `Python` |
 
 <!--
 ---
