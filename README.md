@@ -41,16 +41,18 @@ I'm Alain, a curious developer focused on distributed data systems and cloud-nat
 ---
 
 ### Currently Learning
-
+<!--
 - Distributed systems fundamentals
+-->
 - Data infrastructure & scalable pipeline design
 - Query performance and optimization
 
 ### Fun Facts
 
 - I enjoy optimizing development workflows through automation.
+<!--
 - I'm passionate about scalable system design.
- 
+-->
 ---
 
 <p align="left">
