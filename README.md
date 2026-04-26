@@ -25,10 +25,10 @@ I'm Alain, a curious developer focused on distributed data systems and cloud-nat
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [**Durham Environmental Monitoring**](https://github.com/AlainS7/durham-environmental-monitoring) | Cloud-native IoT data pipeline for automated ingestion, processing, and visualization, optimized for scalable analytics.  | `Python`, `Google Cloud Platform`, `SQL`,`Appwrite` |
 | [**Personal Dotfiles**](https://github.com/AlainS7/dotfiles) | Reproducible development environment with workflow automation and shell optimizations. | `Shell`, `Zsh` |
-| [**PermScope**](https://github.com/AlainS7/permscope) | VS Code extension that analyzes commands and permissions and shows their risk. | `TypeScript` |
+| [**PermScope**](https://github.com/AlainS7/permscope) | VS Code extension that analyzes commands and permissions to assess risk. | `TypeScript` |
 | Pulse | Social events app | `React Native`, `Appwrite`, `Resend`, `TypeScript` |
 | BreakEasy (Private) | Intelligent productivity application (in development). | `React` |
-| dotpi  | Reproducible AI development environment thanks to [**pi**](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent) by [**Mario Zechner**](https://github.com/badlogic). | `TypeScript`, `Python` |
+| dotpi  | Reproducible extension framework for [**pi**](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)-based AI coding agents. | `TypeScript`, `Python` |
 
 <!--
 ---
